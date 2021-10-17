@@ -4,7 +4,7 @@
 ## Requirements
 ```python
 Python==3.7
-RDKit==2020.09.2.0
+RDKit==2020.09.1
 ```
 
 Drug-Likeness
