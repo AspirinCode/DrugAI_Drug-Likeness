@@ -16,9 +16,13 @@ Bickerton, G., Paolini, G., Besnard, J. et al. Quantifying the chemical beauty o
 
 ### Rule of 5 : Lipinski
 Molecular mass less than 500 Dalton
+
 High lipophilicity (expressed as LogP less than 5)
+
 Less than 5 hydrogen bond donors
+
 Less than 10 hydrogen bond acceptors
+
 Molar refractivity should be between 40-130
 
 ### Rule of 4
