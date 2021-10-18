@@ -26,7 +26,15 @@ Less than 10 hydrogen bond acceptors
 Molar refractivity should be between 40-130
 
 ### Rule of 4
+··· “rule-of-four” (RO4) to evaluate PPI inhibitors···
 
+MW must be higher than 400;
+
+ALogP must be higher than 4;
+
+HBA must be higher than 4;
+
+The number of rings (RING) must be higher than 4.
 
 ### Rule of 3
 "Rule of Three (Ro3)" compliant fragments (fragment-likeness)
