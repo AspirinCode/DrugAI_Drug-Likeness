@@ -21,3 +21,4 @@ Bickerton, G., Paolini, G., Besnard, J. et al. Quantifying the chemical beauty o
 
 
 ### REOS (Rapid Elimination Of Swill)
+Walters, W., Namchuk, M. Designing screens: how to make your hits a hit. Nat Rev Drug Discov 2, 259–266 (2003). https://doi.org/10.1038/nrd1063
