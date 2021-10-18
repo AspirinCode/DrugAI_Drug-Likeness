@@ -7,7 +7,7 @@ Python==3.7
 RDKit==2020.09.1
 ```
 
-Drug-Likeness
+## Drug-Likeness
 
 ### QED
 **quantitative estimation of drug-likeness**
