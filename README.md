@@ -36,9 +36,11 @@ HBA must be higher than 4;
 
 The number of rings (RING) must be higher than 4.
 
+
 ### Rule of 3
 **"Rule of Three (Ro3)" compliant fragments (fragment-likeness)**
 Jhoti, H., Williams, G., Rees, D. et al. The 'rule of three' for fragment-based drug discovery: where are we now?. Nat Rev Drug Discov 12, 644 (2013). https://doi.org/10.1038/nrd3926-c1
+
 
 ### Ghose Filter
 **This filter defines drug-likeness constraints as follows:**
@@ -50,6 +52,11 @@ molecular weight is between 160 and 480,
 molar refractivity  is between 40 and 130, 
 
 total number of atoms is between 20 and 70.
+
+
+### Veber Filter
+
+The Veber filter is a rule of thumb filter for orally active drugs described in Veber et. al., J Med Chem. 2002; 45(12): 2615-23.
 
 
 ### REOS (Rapid Elimination Of Swill)
