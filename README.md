@@ -41,6 +41,10 @@ The number of rings (RING) must be higher than 4.
 Jhoti, H., Williams, G., Rees, D. et al. The 'rule of three' for fragment-based drug discovery: where are we now?. Nat Rev Drug Discov 12, 644 (2013). https://doi.org/10.1038/nrd3926-c1
 
 ### Ghose Filter
+This filter defines drug-likeness constraints as follows: 
+
+calculated log P is between -0.4 and 5.6, molecular weight is between 160 and 480, molar refractivity  is between 40 and 130, and the total number of atoms is between 20 and 70.
+
 
 ### REOS (Rapid Elimination Of Swill)
 Walters, W., Namchuk, M. Designing screens: how to make your hits a hit. Nat Rev Drug Discov 2, 259–266 (2003). https://doi.org/10.1038/nrd1063
