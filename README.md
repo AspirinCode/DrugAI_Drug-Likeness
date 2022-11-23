@@ -18,6 +18,8 @@ Bickerton, G., Paolini, G., Besnard, J. et al. Quantifying the chemical beauty o
 ### QEPPI
 **quantitative estimate of protein-protein interaction targeting drug-likeness**
 
+https://github.com/ohuelab/QEPPI
+
 Kosugi T, Ohue M. Quantitative estimate index for early-stage screening of compounds targeting protein-protein interactions. International Journal of Molecular Sciences, 22(20): 10925, 2021. doi: 10.3390/ijms222010925
 Another QEPPI publication (conference paper)
 
