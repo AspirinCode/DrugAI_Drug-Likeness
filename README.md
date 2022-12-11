@@ -1,5 +1,6 @@
 # DrugAI_Drug-Likeness
 
+Druglikeness may be defined as a complex balance of various molecular properties and structure features which determine whether particular molecule is similar to the known drugs. These properties, mainly hydrophobicity, electronic distribution, hydrogen bonding characteristics, molecule size and flexibility and of course presence of various pharmacophoric features influence the behavior of molecule in a living organism, including bioavailability, transport properties, affinity to proteins, reactivity, toxicity, metabolic stability and many others.
 
 ## Requirements
 ```python
